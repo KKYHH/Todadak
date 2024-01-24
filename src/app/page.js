@@ -20,7 +20,8 @@ export default function Home() {
         width={500}
         height={300}
       />
-    <br>test 1</br>
+      <br>test 1</br>
+      <div>test 2</div>
     </>
   );
 }
